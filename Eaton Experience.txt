@@ -1,0 +1,44 @@
+Eaton Interview Experience:
+
+Resume based shortlisting:
+
+Criteria followed for Shortlisting
+1. Previous exam marks (might be about 10+2 marks)
+2. CGPA
+3. Skills mentioned in Resume
+4. Extra Co Curricular Activities mentioned in Resume
+
+
+1st Round (Technical Round):
+
+- Introduce youself shortly
+- Tell me any one sorting method you know with it's complexity
+- How to insert node in Binary Search Tree
+- According to you which is the best sorting technique and why
+- Show me any individual project you have made 
+- Do you know how to deploy the website
+- How to get the website name of your own name? eg. instead of aadityakhot.github.io/Website to aadityakhot.com
+- How do you make sure that your site is secure
+- What is meant by HTTPS and HTTP
+- Tell me one thing you are passionate about
+- Tell me about your LeetCode journey (as mentioned in Resume)
+- What kind of questions you have solved in that journey
+- One brain storming question
+  Suppose you have given a 10 floor building. Design an algorithm for the 4 lifts considering all the parameters like the nearest lift to that person, etc.
+- Do you know about MySQL
+- Tell me about JOINS used in SQL
+- What is meant by WHERE clause
+
+
+
+
+2nd Round (HR):
+- Introduce yourself shortly
+- How was your 1st round?
+- What you were expecting in the 1st round and what did happen?
+- Are you okay to work with us onsite for 3 months in Pune?
+- Do you have any past experience of working in team for any project
+- What are your views on that? Are group projects best or individual ones?
+- Tell me one situation in the recent time where you felt challenging about taking decision and how you tackled it
+- What recent subject you have studied
+
