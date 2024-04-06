@@ -1,5 +1,9 @@
-Date: 6 April 2024
+Test Date: 6 April 2024
+
 ---------------------SEIMENS DISW Internship Drive for Second Year------------------------------
+
+Summer Internship 
+Stipend 35k per month
 
 1. A bag contains 7 red, 5 green, and 5 yellow balls. Find probability that a ball drawn at random is red and green.
 
