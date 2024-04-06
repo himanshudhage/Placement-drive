@@ -1,0 +1,138 @@
+Date: 6 April 2024
+---------------------SEIMENS DISW Summer Internship Drive for Third Year------------------------------
+
+
+1)The questions given below consist of a question followed by three statements. You have to study the question and the statenients and decide which of the statemeritts) is/are necessary to answer the question. What is Mike's present age? 
+
+2)Mark Invested 16000 dollars from his savings in a fixed deposit at a compound interest of rate 5% per annum for 2 years. How much amount wil Mark get an maturity of FD?
+
+3)If 30% of p is q, then determine the q% of 30. 
+
+4)Determine the compound Interest for the principle amounts of 9826 dollars in 3 years at 6 1/4% per annum.
+
+5)Scientists have invented a method to test the Coronavirus disease (COVID). According to this test, if any person has COVID, the chances of the result being positive are 80%. If a person does not have COVID, the chances of the result being negative are 90%. if 20% of all the people who go for the COVID test actually have COVID, what is the probability that a person whose report is positive is actually suffering from COVID
+
+6)Lisa invested a certain amount in a private fund that is compounded annually. At the end of two years, the compound Interest is $880, while at the end of three years, the compound is $1456. How much money did Lisa invest in the private fund
+
+7)If the total weight of a container is 120kg and the weight of one object in it is twice the weight of the second object, then what is the weight of the heaviest object if the first object is also thrice the third object?
+
+8)Bob is walking towards South for 25 metres, turns right and walks another 15 metres. He again turns right and walks 30 metres. Then, he tums left and walks 10 metres. Then in which direction is he from starting point?
+
+9)in April 2002, find the dates on which Saturday falls? A. 4th, 11th, 18th, and 25th B. 5th, 12th, 19th, and 26th C. 6th, 13th, 20th, and 27th D. 7th, 14th, 21th, and 28th
+
+10)Bob decides to buy a motorcycle for 4000 dollars and spent 1500 dollars on its repairs. If he sells the motorcycle for 6000 dollars, what will be his gain percentage? Options: 
+
+11)A certain sum of money invested by Bob at simple interest doubles itself in 4 years at simple interest. Find in how many years will it become 6 times itself at the same rate.
+
+12)Ben has 7 red balls, 4 blue balls, 4 violet balls, and 9 black balls. If 5 balls are picked at random, then what is the probability that all balls that are picked should not be black in color (at least one ball of a different color)?
+
+13)Alice, Ben, and Bob purchased sweets from a candy shop. The number of sweets purchased by Alice and then is respectively 40% and 35% more then number of sweets purchased by Bob .What is the ratio of the number of sweets Alice and Ben had?
+
+14)#include <stdio.h> 
+int main() { 
+void *p;
+int a[4] = {1, 2, 3, 4); 
+p = &a[3]; 
+int *ptr = &a[2]; 
+int n (int*)p - ptr; 
+printf("%d\n", n); }
+
+
+guess output?
+
+
+15)#include <stdio.h>
+ int main() {
+ int a = 1, b = 4, c = 0, d; 
+d= ++a && ++b || ++c; 
+printf("%d,%d, %d", d, a, c); }
+
+guess output?
+
+16)
+Given a string S of length N that contains characters from 0 to 9.
+
+Split the given string such that the numbers formed after the split follow the given conditions:
+
+* The numbers are not greater than C (where C is an arbitrary number)
+
+They do not have leading zeroes
+
+Find out the number of ways in which the given string can be split into one or more parts such that the described conditions are fulfilled.
+
+Since the answer can be very large, print it as modulo 10k (where K is an arbitrary number).
+
+Function description
+
+Complete the solve function. This function takes the following 4 parameters and returns the count of answer.
+
+* S. Represents the string
+
+CRepresents the maximum number after split
+
+K. Represents the modulo factor
+
+* N' Represents the length of the string
+
+Input format for custom testing
+
+Note: Use this input format if you are testing against custom input or writing code in a language where we don't provide boilerplate code.
+
+* The first line contains three space-separated integers N, C, and K.
+
+* The second line contains a string S of length N.
+
+Output format
+
+Print the number of ways in which the given string can be split into one or more parts while fulfilling the given conditions.
+
+Constraints1 ≤ N ≤ 1000001 < C <10°1 <K≤ 18
+
+
+17)Account information
+
+Find out the following information about accounts that you transact with through your digital wallet. This information must be in increasing order of bank account numbers based on the user's input information.
+
+Conditions
+
+* The information you need to complete the transaction is as follows: <bank_account_number> <account_holder_first_name> <account_holder_last_name> <registered_mobile_number> <branch_code>
+
+* No two accounts can have the same account number or registered mobile number.
+
+* At least one record must match the user's input information.
+
+Function description
+
+Complete the function solve provided in the editor. This function takes the following 4 parameters and returns the required answer:
+
+* N: Represents the number of saved accounts
+
+* A: Represents the 2D vector of the string denoting the information of N saved accounts
+
+D: Represents the name of information the user has
+
+* V: Represents the value of the given information
+
+Input format for custom testing
+
+Note: Use this input format if you are testing against custom input or writing code in a language where we don't provide boilerplate code
+
+* The first line contains a single integer N denoting the number of saved accounts.
+
+* Each of the next N lines contains 5 strings denoting the information of saved accounts.
+
+* The next line contains a string D denoting the name of the information the user has.
+
+* The last line contains a string V denoting the value of the information the user has.
+
+Output format
+
+Print all the information of the accounts in increasing order of bank account numbers based on the user's input information.
+
+Constraints
+
+1 ≤ N ≤ 1000
+
+1 ≤ A[i][j] < 15
+
+All the information in the account contains only lowercase letters and numbers.
