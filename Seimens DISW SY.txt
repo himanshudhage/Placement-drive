@@ -1,0 +1,44 @@
+Date: 6 April 2024
+---------------------SEIMENS DISW Internship Drive for Second Year------------------------------
+
+1. A bag contains 7 red, 5 green, and 5 yellow balls. Find probability that a ball drawn at random is red and green.
+
+2. Car manufacturers plant and manufacture 96 dozen cars in 8 days. How many dozen cars will the plant manufacture in 17 days?
+
+3. 12 men and 18 boys working 7.5 hours a day can do a piece of work in 60 days. If a man works equals to 2 boys, then how many boys will be required to help 21 men to do twice the work in 15 days, working 9 hours a day?
+
+4. If the product of two consecutive odd integers is 323, what is the larger integer?
+
+5. A construction company is building a circular swimming pool with a diameter of 20 meters. The company wants to build a circular deck around the pool with a width of 3 meters. If the cost of the construction for the pool is 50 rupees per square meter and for the deck is 30 rupees per square meter, what is the total cost of constructing the pool and the deck?
+
+6. The population of a city is expected to increase by 12% each year. If the current population is 50,000, what will be the population after 3 years?
+
+7. A train M leaves Meerut at 5 AM and reaches Delhi at 9 AM. Another train leaves Delhi at 7 AM and reaches Meerut at 10.30 AM. At what time do that two trains cross each other?
+
+8. In C, which of the following is not used in static storage class? Global variables, function parameters, function names, local variables.
+
+9. Complete the series 2, 3, 6, 8, 14, 18, 26, 32.
+
+10. When is given an infinite linked list containing prime numbers, assume that the linked list has an additional pointer called jump pointer, which points to the jump node. For example, if the content of the list is 2, then its jump pointer points to a node which is 2 nodes after it. Which of these locations will the jump pointer of the 5th node point to?
+
+11. A total of 10 people, 5 men and 5 women are sitting into parallel lines facing each other
+
+12. A train and leaves meerut at 5:00 a.m. reaches delhi at 9:00 a.m. another train leaves delhi at 7:00 a.m. reaches merit at 10:30 a.m. at what time train cross each other
+
+13. A water tank can hold 100 l of water. A pipe can fill the tank at the rate of 5 l per minute pipe b can fill it at 8 litre per minute working together how many minutes will it take to fill the time completely
+
+14. Void v =0 
+What would be the output?
+
+15. Given A number of small-size resources and B number of medium-size resources and C number of large-size resources. A valid resource system is a system of 3 resources in which all resources are of the same type of all resources are of a different type.
+
+You are given integers A, B, and C. Print the maximum number of valid resource systems you can make with available resources.
+
+Function description
+
+Complete the function Resource(). This function takes the following 3 parameters and returns the required answer:
+
+A: Represents the number of small-sized resources
+B: Represents the number of medium-sized resources
+C: Represents the number of large-sized resources
+
