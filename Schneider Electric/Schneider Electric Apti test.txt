@@ -1,0 +1,147 @@
+Test Date: 10 April 2024
+
+---------------------Schneider Electric Summer Internship Drive for Third Year------------------------------
+
+Summer Internship 
+PPO - 9 lac + 3 lac (sign in bonus)
+
+
+Module 1: Domain Test
+
+Test Pattern: Domain MCQ test: 30 Q 30 mins. No Negative marking
+
+ 
+
+Module 2: Gamified & Adept Test
+
+Test Pattern: Total 60 Minutes
+
+·5 cognitive instruments (4-6 minutes each) – 30 minutes
+·Behavioural Test – Untimed (typically takes 25-30 mins)
+
+
+
+Module 1:
+
+Q1. What does COUNT(*) function return in SQL?The following functional dependencies are given:
+
+Q2. 
+AB->CD
+AF->D
+DE->F
+C->G
+F->E
+G->A
+Which one of the following options is false?
+ops: 
+A. BG+ =(ABCDG)
+B. AF+ = (ACDEFG)
+C. AB+ = (ABCDFG)
+D. CF+ = (ACDEFG)
+
+Q3. What is the meaning of the following floating point instruction?
+ADDD, ADDF
+
+Q4. Which of the following is the alternate way of writing the instruction, ADD #3,R1?
+	A. ADD [R1],[3];
+        B. ADDIME 3,[R1];
+        C. ADD [3],[R1];
+        D. ADDI 3,R1;
+
+Q5. Predict the output of the following given code.
+class X
+{
+  public:
+    class Y
+     {
+       int a;
+       public:
+       Y()
+	{
+	  a=10;
+	}
+
+	void print ()
+	{
+	    cout<<a;
+	}
+     };
+};
+
+int main () 
+{
+  X::Y y:
+  Y.Print();
+  return 0;
+}
+
+Q6. TCP/IP contains ___ layers
+
+Q7. How many comparisons are required to merge 4 sorted files containing 15, 3, 9 and 8 records into a single sorted file?
+
+Q8. The running time of an algorithm is given by:
+    T(m) = T(m-1)+T(m-2)-T(m-3), if m>3 otherwise T(m) = m;
+then what will be the time complexity of the given algorithm?
+
+Q9. Which of the following statements is/are TRUE for an undirected graph?
+	P. Number of odd degree vertices is even.
+	Q. Sum of degrees of all vertices is even.
+Choose the correct answer from the options given below. 
+	A. P only
+        B. Both P and Q
+        C. Neither P nor Q
+        D. Q only
+
+Q10. How much time is required to find the composition of an optimal solution in dynamic programming?
+
+Q11. What will be the value of a for x= 9,y=2 and z=6?
+a =x&y|z;
+
+Q12. How many ways of passing parameters in C-++?
+ 	A. two
+	B. four
+	C. three
+	D. only one
+
+Q13. Among the following which one is used to keeping the call by reference value as intact?
+	A. Absolute
+ 	B. Static
+	C. Const
+	D. None of the mentioned options
+
+Q14. Which of the following is the supplementary protocol that has overcome the limitations of E-mail that can send messages
+only in NVT 7- bit ASCIl Format i.e. it cannot be used for languages that are not supported by 7-bit ASCII characters (such
+as French, German, Hebrew, Russian, Chinese, and Japanese) & also it cannot be used to send binary files or video or
+audio data?
+	A. TELNET	
+	B. MIME
+	C. OSNMP
+	D. SMTP
+
+Q15. Which of the following defines the general rules for naming objects, defining object types, and showing how to encode
+objects and values?
+
+Q16. What would be the minimum time needed to sort 100 numbers when the machine needs a minimum 100 sec to sort
+1000 numbers by quick sort?
+
+Q17. What would be the maximum height of any AVL-tree with 7 nodes? Given: The height of a tree with a single node is 0.
+
+Q18. Suppose, in a job sequencing problem, number of jobs (n)= 4 profit set is given by (P1,P2,P3,P4)= (100,10,15,27) and deadline set is given by (d1,d2,d3,d4)=(2,1,2,1), then which of the following would be the optimal solution to get maximum profit within the deadline?
+	A. (3,4)
+	B. (2, 3)
+	B. (1, 4)
+	D. (0,2)
+
+Q19. Which of the following is correct regarding UNIX device driver?
+
+Q20. Which of the following is a false statement regarding the open database connectivity standard (ODBC)?
+	A. ODBC provides API which allows clientside programs to call the DBMS.
+	B. None of the mentioned options
+	C. Most DBMS vendors provides an ODBC driver for their systems.
+	D. A client program can connect O several RDBMSs.
+
+Q21. How is an interrupt triggered by software?
+	A. By executing a special program called system program.
+	B. By sending signals to CPU through the bus.
+	C. By executing a special operation called system call.
+	D. By executing a special program called interrupt trigger program.
