@@ -1,0 +1,28 @@
+Date: 28 April 2024
+
+----------------------------TCS R&I Summer Internship----------------------------
+
+- Research based internship
+- Resume based shortlisting
+- 20k stipend per month
+- 9 lakh ctc
+
+
+Selected student's interview experience
+
+
+1. Introduction
+2. Mentioned one of my hobbies as reading book so asked about what types of book favourite book
+3. Why this book is favourite?
+4. Questions about project that i have done
+5. What do you mean by fullstack dev?
+6. What do you enjoy in fullstack development Frontend or backend ? why?
+7. Do you know basics of Gen Ai?
+8. have you used gen ai ? how ?
+9. is output of gen ai model is always correct ? why?
+10. can you use the output as it is ? what changes do you make?
+11. difference between writing code yourself  and using a model help
+12. Sdlc process
+13. what is oop?
+14. give any example of oop program you have done.
+15. can we use c as an oop language ?
