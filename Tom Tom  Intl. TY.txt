@@ -1,0 +1,66 @@
+Date: 28 April 2024
+---------------Tom Tom International Summer internship---------------
+
+
+Stipend: 50k
+Duration: 6 months
+PPO: 12 lakh ctc
+
+Resume & CGPA based shortlisting
+(CGPA 9+)
+
+
+-------------Student 1 experience-------------
+
+1) Project Description
+2) Why PHP? 
+3) Static keywords 3 uses
+4) final keyword 3 uses
+5) why DBMS
+6) SQL queries basic
+7) trigger vs stored procedures
+8) SQL Joins queries
+9) DSA question( 15 minutes) 
+10) Linked List vs Arraylist
+11) Why stack
+12) Exception handling with example
+
+
+
+-------------Student 2 experience-------------
+
+C++:
+1.what is meant by diamond problem in c++?
+
+java questions
+1.what is interface and abstract classes?
+can we acheive multiple inheritence using interface ?can interface have diamond problem due to multiple inheritence?
+2.what is inheritence and encapsulation?explain with real life examples
+3.what is meant by static keyword?
+4.Explain about method overriding and method overloading?
+
+sql:
+given a table with attributes:
+{
+  customer id,order_amount
+}
+
+write a query which tells order putchased by each customer with its total order amount sort them according to their total order amount
+
+DSA:
+1.find sum of squares of 1 to n recursively ?its time complexity and space complexity
+2.Given an arithmetic expression:
+(a+b)*c-d .Represnt in the tree form.
+3.what is difference between binary tree and balanced tree?
+4.how to traverse tree and explain them ?
+5.how to find given element in binary search tree?its time complexity and space complexity?
+6.what is difference between n ary tree and red black tree?
+
+
+Aptitude Problem:
+1.given a set of 12 weights balls out of which  one is slightly heavier .how to find this heavier ball from this set.you have one weight balancer?
+Approach along with its time complexity
+
+
+
+
