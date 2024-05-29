@@ -1,9 +1,11 @@
 Date: 23 May 2024
----------------IdeaS SaS Internship with PPO ---------------
+---------------IdeaS SAS Internship with PPO ---------------
 
 CGPA based shortlisting
 (CGPA 8+)
 
+Internship Stipend: INR 20,000 per month + Health Insurance
+PPO: comprehensive 3-year offer of INR 44 Lakhs with Year-1 CTC of 10.5 Lakhs*
 
 Q1.
 Being a Software Engineer (Testing) requires you to be a software detective. You have to use your intuition, judgement, and clues to figure out where the bugs might be hiding. The problem below requires you to be such a detective.
