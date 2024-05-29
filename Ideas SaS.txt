@@ -1,0 +1,294 @@
+Date: 23 May 2024
+---------------IdeaS SaS Internship with PPO ---------------
+
+CGPA based shortlisting
+(CGPA 8+)
+
+
+Q1.
+Being a Software Engineer (Testing) requires you to be a software detective. You have to use your intuition, judgement, and clues to figure out where the bugs might be hiding. The problem below requires you to be such a detective.
+
+(Note: there are 3 very similar questions in this test. The question looks the same, but each time, it has a different bug.)
+
+Consider this mini-online program. If you enter a list of comma-separated integers, and click Process, it should print the same list in sorted order under Output. It is a little limited in the input formats it can understand, so it will give you an "Invalid Input" message if it is not able to parse the input you entered.
+
+Input a list of comma separated numbers: _____________
+
+Process 
+Output:
+
+
+However, there is a bug in this mini-program. There are certain inputs for which, it gives a wrong answer (i.e. the numbers are not really sorted properly.) Can you find an input string for which this mini- program gives an incorrect answer? Once you've found such an input string, please enter it in the Answer box below, and click submit. (Note: do not submit an input that results in Invalid Input. You must submit something that results in a wrong answer.)
+
+Answer: 
+
+
+Q2.
+Half of a doctor's life was over before he got his degree. After that he spent 1/3rd of his life working for a big hospital. Then he started his private practice and spent 1/10th of his life doing this. However, he had to retire at this point because of health issues, and died 4 years later? How old was he when he retired?
+
+Answer:
+
+Q3.
+Big Average
+Consider the following list of 15 large numbers:
+4250081908400271013963777660
+4250081908400271013963777661
+4250081908400271013963777667
+4250081908400271013963777663
+4250081908400271013963777662
+5250081908400271013963777668
+5250081908400271013963777662
+5250081908400271013963777667
+5250081908400271013963777661
+5250081908400271013963777666
+6250081908400271013963777663
+
+Please compute the average of these numbers
+You need to provide your answer as just a single number. To solve this question, you can use any tool, or website, or google, or any software package, or any programming language, or tool. However, you're not allowed to discuss this with any other person, or ask for advice.
+
+Answer:
+
+Q4.
+Hashtables #2
+
+Given an array containing strings, you have to find duplicate strings in this array. You solve the problem by building a hashtable with those strings and use that hashtable to find duplicates. Which of the following statements are true? (Unless otherwise stated, assume that the hash-function and hash-table are working well and doing a good job.)
+
+Pick all that apply
+
+a. In most cases, the program will run in O(n) time
+b. In most cases, the program will run in O(n log n) time
+c. In most cases, the program will run in O(n^2) time
+d. If the hash-function is a doing a bad job, and there are lots of collisions, the program will run in O(n log n) time
+e. If the hash-function is a doing a bad job, and there are lots of collisions, the program will run in O(n^2) time
+
+Q5. 
+See this implementation of a hash function. It will be used for putting C-style null-terminated char * strings in a hashtable:
+
+int hash(char *str) {
+}
+return strlen(str); /* return Length of string */
+
+Which of the following statements are true?
+
+Pick all that apply
+
+a. This is an invalid hash function, because hash function should return a bitmap
+b. This is a good hash function because it returns different values for different strings
+c. This is a bad hash function because it returns the same value for all strings of the same length. 
+d. This will cause the hashtable implementation to crash because it can return the same hash value for different strings
+e. This will cause the hashtable implementation to be inefficient because it will cause the same hash value to be returned for many different strings
+
+Q6.
+You need to use a map data structure as follows:
+• It stores (key, value) pairs, and both the key and value are of type String
+• Inserting a new (key, value) pair in the map must have a performance time of O(log n) in the worst cases
+• Looking up a key in the map must have a performance time of O(log n) in the worst case
+• It is expected to be a main-memory data structure
+
+Which of the following data structures is most appropriate for this requirement
+
+Select the closest option
+
+Array
+Queue
+Linked List
+Binary Search Tree
+Hashtable
+
+Q7.
+Array filtering
+
+This code filters an array to remove all numbers less than 0 from it:
+
+void filter(ArrayList<Integer> b) {
+int i=0;
+while(i<b.size())
+if (b.get(i) < 0)
+else
+b.remove(i);
+i++;
+}
+
+Which of the following statements is true? (Note: in Java, an ArrayList is not implemented as a linked list. It is a regular array, but provides methods of the List interface. Based on this information, you should be able to answer this question even if you don't know Java.)
+
+Pick all that apply
+
+a. The running time complexity of this program is O(n)
+b. The running time complexity of this program is O(n log n)
+c. The running time complexity of this program is O(n^2)
+d. Such a program can never work because it is modifying the same array that it is looping over 
+e. Such a program can never work because such a remove method cannot be implemented for an array
+
+Q8.
+Which of the following networking protocols run on top of TCP?
+
+Pick all that apply
+
+a. DHCP
+b. HTTP
+c. UDP
+d. IP
+e. None of the above
+
+Q9.
+Binary Search Tree Traversal
+
+B is a binary search tree with n nodes. Every node of B stores an integer. You have to print all the integers in B in sorted order. What would the run-time complexity of this operation be?
+
+Select the closest option
+
+a. O(n)
+b. O(log n)
+c. O(n log n)
+d. O(n^2)
+e. Depends upon the structure of the tree
+
+Q10.
+Google Reader
+
+Consider this passage:
+
+There are several components to Google Reader. The backend is written in C++ and talks to several Google services like BigTable. The frontend is written in Java using the Google Servlet Engine. The part that runs in your browser is written in JS using Google Closure.
+Which of the following statements are true according to the passage above:
+
+Pick all that apply
+
+a. BigTable is written in C++
+b. BigTable is a component of Google Reader
+c. Part of Google Reader is written in Java
+d. Part of Google Reader is written in JS
+e. BigTable, Google Servlet Engine, and Google Closure are components of Google Reader 
+
+Q11.
+Thrashing
+
+Select the closest option
+
+a. Is a natural consequence of virtual memory systems?
+b. Can always be avoided by swapping
+c. Always occurs on large computers
+d. Can be caused by poor paging algorithms
+e. None of the above
+
+Q12.
+IP address
+
+How long is an IPv4 address?
+
+Select the closest option
+
+a. Maximum 12 digits
+b. Maximum 4 integers
+c. 32-bits
+d. 30-characters (not including the.com)
+e. There is no maximum
+
+Q13.
+Page Fault
+
+A page fault:
+
+Select the closest option
+
+a. is an error is a specific page
+b.occurs when a program accesses a page of memory
+c. is an access to a page not currently in memory
+d. is a reference to a page belonging to another program 
+e. None of the above
+
+Q14.
+Deadlock
+
+What necessary conditions can lead to a deadlock situation in a system?
+
+Pick all that apply
+
+a. Mutual exclusion
+b. Hold and Wait
+c. No preemption
+d. Circular wait
+e. None of the above
+
+Q15.
+Why COBOL?
+
+Consider this passage:
+
+The COBOL core banking system has capabilities that are not replicated by the off the shelf systems pushed by the vendors today (despite their claims). Nobody really knows how the old code actually works. Reverse engineering it would be a huge project. Huge projects fail as a rule. That is why the bank is still using COBOL
+
+Which of the following statements are most likely to be true according to the author of the passage above:
+
+Pick all that apply
+
+a. Today's vendors claim that their new systems have the same capabilities as the older COBOL systems
+b. New systems have the same capabilities as the older COBOL systems
+c. A project to rewriting the old COBOL code in a modern programming language will most likely fail
+d. The Bank is using COBOL even though it does not really work
+
+Q16.
+Consider this statement:
+
+The Rajasthan government has just passed a law requiring a Bachelor's a degree for anyone to be eligible to contest elections. As a result, people from rural backgrounds will no longer be able to hold political office
+
+Which of the following statements are implicitly assumed by the above statement:
+
+Pick all that apply
+
+a. It is not possible to hold a political office without contesting elections
+b. People from rural backgrounds do not have a Bachelor's degree
+c. All people with Bachelor's degrees are eligible to contest elections
+d. Educated people are better suited to political office
+e. People from rural backgrounds who get a Bachelor's degree will win elections
+
+Q17.
+Consider this statement:
+
+Jai: IITs are producing great engineers, who ultimately end up benefiting science and technology in India, but more important is the fact that they are greatly improving the image of India in the west
+Vijay: No, you're mistaken. Producing great engineers who benefit science and technology in India is the most important function of IITs. Without IITs, most of our software industry wouldn't have existed.
+
+Which of these points do Jai and Vijay disagree about?
+
+Select the closest option
+
+a. Whether IITs produce great engineers
+b. Whether IITs improve the image of India abroad
+c. Whether IITs are important to India or not, because most of their great engineers end up migrating to the west
+d. Whether producing great engineers who benefit science and technology in India is the most important function of IITs
+e. Whether improving the image of India abroad is important
+
+Q18.
+Consider this statement:
+
+In 2002, the IIT JEE entrance exam was a subjective exam. Various student and parent groups raised objections to this, but their objections were ignored by the JEE management. Data from the results of the 2002 test showed that non-English medium school students had fared very badly in the JEE. Soon after the results were announced, a Public Interest Litigation (PIL) was filed against the method of conducting the JEE in the courts. During this PIL, the court ruled that the subjective nature of the JEE is unfair to certain section of students. As a result, from then on, the JEE has always been conducted as a purely objective test.
+
+Which of the following statements follow logicaly from this:
+
+Select the closest option
+
+a. Before 2002, students from non-English medium schools always fared badly in JEE
+b. The JEE is now an objective test because of the court ruling in the PIL.
+c. If the JEE management had paid attention to the objections raised by student/parent groups, the PIL could have been avoided
+d. Before 2002, JEE was a subjective test because the JEE management believed that a subjective test is better than an objective test
+e. Use of a purely objective test for JEE 2002 would have prevented the PIL
+
+Q19.
+Badminton rackets
+
+A couple has 5 different badminton rackets, and every day, they pick two random rackets and play badminton for an hour. During the lockdown, they have played a total of 400 hours. Interestingly, their random picking of rackets has worked so well that each racket has been used the same number of hours. How many hours has each racket been used?
+
+Answer:
+
+Q20.
+A man had Rs. 10000. He used some of that money to buy two cupboards, and then sold them both for Rs. 4500 each. He made a profit of 25% on one and a loss of 25% on the other. How many rupees does he have left now?
+
+Answer:
+
+Q21.
+Ria drives from one place to another at an average speed of 60kmph. Then she turns around and comes back to the first place, but this time at an average of 20kmph. What is is average speed in kmph for the whole journey? Round off your answer to the nearest whole number. If you think there isnt sufficient data to answer this question, then put as your answer
+
+Answer:
+
+Q22.
+Reversing the digits of Ria's age gives the age of her mother. And the sum of their ages is 11/3 times the difference between their ages. How old is Ria?
+
+Answer:
