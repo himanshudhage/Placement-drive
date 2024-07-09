@@ -1,0 +1,36 @@
+Date: 2 July 2024
+
+---------------UBS Campus Drive 2024-25---------------
+
+PPO: 12.5 lakh pa
+
+
+Round 1:
+
+30 aptitude questions 
+1 coding question medium level string leetcode
+
+
+Round 2:
+
+Technical Round 1
+
+1. 2 SQL queries
+2. What happens in backend when you click on any option on UI 
+3. Tell me about OOPs in C++
+4. What is Polymorphism
+5. What is Virtual Function
+6. Difference btw array and linked list
+7. Code for N meetings in room problem
+8. Reverse the words in string code
+9. 3 puzzles brainstorming
+10. Questions on project
+11. Questions on javascript
+12. Questions on Position on responsibilities as i have worked in many clubs
+
+Technical Round 2
+
+1. Why you use specific language for coding
+2. Complete discussion on Projects
+
+
