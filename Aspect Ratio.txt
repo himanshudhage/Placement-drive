@@ -1,0 +1,30 @@
+Date: 28 June 2024
+
+---------------Aspect Ratio Campus Drive 2024-25---------------
+
+PPO: 11 lakh ctc
+
+Round 1:
+
+Coding Questions:
+
+1. Write a program to convert the given Roman Numeral to Integer
+2. Write a function to add all the odd natural numbers below n
+3. Write a non recursive program to find factorial of a number
+4. Write a program to find the Fibonacci series
+
+
+Platform: Mettl
+
+Round 2:
+
+Handwritten offline apti 
+
+Topics: Profit Loss, Probability, Upstream Downstream Problems, Speed Distance Time Problems, Work done, Age problems
+
+
+Round 3:
+Puzzles
+Gestonomics
+Mathematical Questions
+
