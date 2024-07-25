@@ -1,0 +1,79 @@
+Date: 15 July 2024
+
+---------------Signify Cooper Campus Drive 2024-25---------------
+
+
+Shortlisting
+- Based on CGPA(8+) and resume
+- No aptitude test
+
+Technical Round (60-80 min):
+
+1. Introduce Yourself
+   - Include your area of interest.
+2. Project Discussion
+   - Elaborate on any one project.
+   - What challenges did you face?
+   - Why did you choose Blockchain?
+   - Was there any last-moment requirement change?
+   - What do you think about team projects versus individual projects?
+   - What was the duration of the project?
+   - What was your role?
+3. Second Project
+   - Explain your second project.
+   - How is it helpful for society?
+4. Internship Experience
+   - How was your experience?
+   - How much were you paid?
+   - Can you elaborate on the tech stack you worked with as an intern?
+5. OOPs Questions
+   - What are the pillars of OOPs?
+   - Explain polymorphism.
+   - Do you know the principles of OOPs?
+   - Explain the diamond problem in Java.
+6. Java/C++ Questions (I chose Java)
+   - What are the ways to declare a string in Java?
+   - Compare StringBuffer vs StringBuilder.
+   - Given a short program in Java, explain how memory will be allocated in the stack and heap.
+   - What is the final keyword in Java?
+7. DSA and SQL Queries
+   - What is a palindrome?
+   - Write a code to check if a string is a palindrome.
+   - Now, write a code to check if a number is a palindrome using the same logic.
+   - How would you find the nth highest salary?
+8. Puzzle
+   - Maximum chocolates puzzle: (https://www.geeksforgeeks.org/puzzle-22-maximum-chocolates/)
+9. OS Questions
+   - What are the memory allocation techniques?
+   - When does a deadlock occur?
+10. General Questions
+    - Why did you choose this career if journaling is your hobby?
+    - Are you planning for a master's or any higher education?
+    - How have you maintained your CGPA?
+    - Did you attend the PPT (Pre-Placement Talk)? I said no, I had a Siemens interview.
+    - Are you selected at Siemens? I said no.
+    - What do you think was the reason behind that? Can you share your experience of the Siemens interview?
+11.  Do you have any questions for me?
+
+
+HR Round (20-30 min):
+
+1. introduce Yourself
+2. Why Signify?
+3. GitHub Questions
+   - What is GitHub?
+   - What is a repository in GitHub?
+4. LeetCode 
+   - What is the significance of a LeetCode rating?
+5. What if a company offers you a package higher than ours? What parameters will you consider?
+6. Tell me about one of your favorite hobbies.
+7. Any skills apart from academics that you think you are a master at? (I mentioned my good handwriting)
+8.Write 2 lines about yourself on paper (since I mentioned my handwriting is good).
+9. If selected today, are you planning to sit for future placement drives of other companies?
+10. Tell me about your hackathon experience.
+11. Where were your previous internships located?
+12.Define yourself in one word.
+13. What is one of your weaknesses?
+14. Tell me about your family members and what they do.
+15.  Are you okay with relocating to Pune? 
+16. Do you have any questions for me?
