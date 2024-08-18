@@ -1,0 +1,43 @@
+Date: 9 August 2024
+
+---------------Druva Campus Drive 2024-25---------------
+
+CTC: 17 lpa + stocks(4 yrs)
+
+
+Online Assessment (OA):
+DSA:
+1. Given an array, you can select a subset of elements excluding the maximum element. Determine if it's possible to select a subset whose sum equals the maximum element.
+2. Given a string, find the first word that contains at least one repeating character. Words are separated by spaces, and the string may include punctuation marks.
+
+
+Technical Round:
+
+
+DSA:
+1. https://leetcode.com/problems/reverse-nodes-in-k-group/
+2. https://leetcode.com/problems/isomorphic-strings/description/
+3. https://www.geeksforgeeks.org/allocate-minimum-number-pages/
+Core:
+1. What are indexes in RDBMS?
+2. When would you avoid using an index?
+3. In a drawing app where a user can draw their signature, which data structure would you use to store the signature?
+4. And a few other questions on dbms.
+5. Questions on internship and projects.
+
+
+HR Round (Tech Focused):
+
+
+1. What challenges does the transport layer solve?
+2. Why do we need a transport layer when we already have a network layer?
+Hint: what's difference between addressing of two
+3. What is the difference between thread and process?
+4. OS provides shared memory for processes too, so why do we need threads ?
+5. How many threads would you use? How do you determine the optimal number of threads ?
+6. What criteria would you use to determine whether to use indexes in a database or not.
+7. Discuss any project where you had to work with a team and make design related decisions.
+8. Tell about the components you designed in this project.
+9. What was the most difficult part of this project?
+10. Are you research oriented or service oriented ?
+11. Which field would you like to explore in the next 2 years ? Why ?
