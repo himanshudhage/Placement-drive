@@ -1,0 +1,46 @@
+Date: 22 Juy 2024
+
+---------------eQ Technologic Campus Drive 2024-25---------------
+
+CTC: 13.88 lpa
+
+Interview Experience
+Company: eQ Technologic
+Position: Java Developer
+
+Shortlisting
+- Based on CGPA and resume: 60%+
+- Online Assessment: 2hrs (Logical, Aptitude and Technical)
+
+Technical Round 1 (60 mins):
+
+1. Introduce Yourself
+   - Include your area of interest.
+2. Rate yourself in Java.
+3. Short project discussion and tech stack explanation and significance. 
+4. OOPs basics, What is Polymorphism and Inheritance?
+5. OOPs in Java, Interfaces and Abstract Class. 
+6. Short discussion about last internship, work done and technology.
+7. Basic System Design. MVM, MVC Model, etc.
+8. Two coding Questions
+   - Vowel switching, given a string reverse all the vowels in the string. 
+Input: Model, Output: Medol
+   - Palindrome using Recursion. Intuition
+9. DBMS basics. Asked 2 SQL Queries out of 3.
+10. Previous Internship Discussion 
+ - Tech Stack
+ - Challenges 
+ - Contribution 
+11. Do you have any questions for me?
+
+Technical Round 2 (90 mins):
+Coding question was sent on the mail.
+Topics: Maths, Pattern.
+Solution was expected in the .txt file without executing the code.
+
+HR Round (30 mins):
+
+1. Strengths and Weakness 
+2. Rate yourself in the technologies I mentioned in my resume.
+3. Discussion on the coding question from the round 2. Scope for optimization.
+4. Do you have any questions for me?
