@@ -1,0 +1,67 @@
+Date: 29 August 2024
+
+---------------Pubmatic Campus Drive 2024-25---------------
+
+CTC: 13 lpa 
+
+
+The process had 3 rounds: 1-Aptitude, 2-Technical Interviews
+Note: The company shortlists the students based on CGPA/Grade. It would be a plus point if you maintain it above 8.8 or 9.
+
+
+Round 1: Aptitude – Duration: 90 minutes
+
+It had total 17 questions: 15 Aptitude and 2 Coding.
+The questions were a mix of DSA, Database, CN, OS, Linux, General Programming -> Moderate Level
+Coding:
+Questions were based on DSA.
+Question 1: (Medium) 
+Given a string containing only lowercase English alphabets, you can perform 2 operations -
+Operation1: [x,i,j] -> shift all the letters from index ‘I’ to ‘j’ (both inclusive) to the next ‘x’th letter in the alphabet series. [‘z’ will be changed as ‘a’].
+Operation2: [-2,i,j] -> shift all the letters from index ‘i’ to ‘j’ (both inclusive) to their previous letter in the alphabet series. [‘a’ will be changed to ‘z’].
+Given the string and an array of operations return the result string after performing all the operations on the input string.
+Solution: Normally easy but due to constrains on length on string and operations, optimization was tricky. Could be solved by creating new array and marking the indices and shifts. Take prefix sum and individually update each character.
+
+Question 2:(Medium-Hard)
+Question was mostly Medium but the wording and framing was tough and tricky. Here’s the simplified version:
+A string is encoded as follows:
+Lettes ‘a’ to ‘i’ encoded as 1 to 9.
+Letter ‘j’ to ‘z’ encoded as 10# to 26#
+If there are any consecutive occurrences of a character then their frequency is encoded as ‘(frequency)’.	
+Example: “abcccxknni” -> 123(3)24#11#14#(2)9
+The actual Question: Given such an encoded string return an array of size 26 denoting the frequency of all the characters in the original decoded string.
+Large Constraints – Expected TC = O(n)
+Solution: Check for next 2 characters if it is ‘#’ generate character based on current and next index.    If it is ‘(‘, generate frequency until you encounter ‘)’and add it to previously discovered character.       If it is none then it’s an individual character. Update frequency array on encounter of every character.
+
+Mostly those who had solved both or one complete and one partially solved were shortlisted for the interviews.
+
+
+Round 2: Technical Interview 1
+
+My first interview was online and the interviewer was a Senior Developer in C/C++ (as per my preference). 
+He asked for my introduction and then directly started asking questions about DSA and asked me to share my screen and open an online IDE. I was asked to solve each of the questions and share the solution as he was personally checking them on some testcases asking me to make modifications in the code.
+I was given three problems:
+1.Given an integer array of size ‘n’ having no.s in the range [1,n-1] there is an element repeated once. Find this element.
+Modification: The element may be repeated multiple times.
+2.Given a Binary Tree check if it is also a Binary Sum Tree (Value of root is sum of values in left and right subtree for each node).
+3.Given an array of random integers, Find any one of the Peak elements.                                                               Peak element: element at an index ‘i’ such that arr[i-1] <= arr[i] >= arr[i+1]                                                     Should be solved in less than O(n) or O(log(n)).
+I was asked to solve all the questions in Linear or Less TC and O(1) Space.
+Extremely Important: Always explain what you are thinking, ask if you can make any assumptions, even ask for some hints. Try to keep the conversation going. Even if you cannot solve the problem or implement the solution, at least try to explain the approach.
+After these DSA problems he jumped to OS (important). He asked questions based on Multithreading, Multiprocessing, Differences, importance, Threading concepts, Scheduling types and optimal techniques, Thrashing, Paging and Replacement Techniques.
+
+
+Round 3: Technical Interview 2
+Interviewer was Senior/Project Lead
+It was based on concepts of the preferred language. I was asked questions about pointers and heap memory.
+I was given a pen and paper and she asked me 2 Questions for which I had to write the code.
+Q1: Given a string containing key and value pairs separated by a comma, Extract them and design an API that fetches a value based on a passed key.
+E.g.: string = “key1=value1,key2=value2,key3=value3”;
+Q2: Implement Vector using array, especially implement the pop_back() and push_back() functions.
+Solution: I created a Vector class with size variable and an integer pointer to create array dynamically.                     To implement the pop_back() function, simply decreased the size if greater than zero else return error.                 
+ To implement the push_back() function, I created another with pointer with an increased size and copied the elements from original pointer and then Freed the memory.
+Important: Mainly the focus was on implementation and design of the code and how some edge cases were handling. She focused on my knowledge of pointers and allocating and deallocating of memory in the code. 
+	
+
+
+
+ 

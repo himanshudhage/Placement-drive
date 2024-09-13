@@ -1,0 +1,100 @@
+Date: 29 August 2024
+
+---------------Pubmatic Campus Drive 2024-25---------------
+
+CTC: 13 lpa
+
+1. Online Assessment round
+
+    i) 15 MCQs
+        - OS: deadlock,bankers algorithm, semaphores, process scheduling
+        - DBMS: Normalization, ER relations
+        - SQL: Joins, Subqueries
+        - DSA: tree traversal, output prediction, time complexity
+    
+    ii) 2 coding questions
+
+        1) Given a string str and an array operations (each operation in the form of i, j, and op), perform transformations on substrings of str. For each substring str[i:j], if op='L', replace each character with its immediate left in the alphabet, and if op='R', replace with the right character. Note: if a character is 'a' and op='L', replace it with 'z'; if 'z' and op='R', replace it with 'a'. Return the modified string after applying all operations.
+
+        2) Given an encoded string s with digits, #, and parentheses: 'a' to 'i' are encoded as '1' to '9','j' to 'z' are encoded as '10#' to '26#'. Repeated characters are followed by their count in parentheses, e.g., 'aa' is '1(2)'.Return an array of 26 integers where each index represents the frequency of a letter ('a' at index 0, 'b' at index 1, etc.).
+        ex: 1) i/p: 1(2)23(3), o/p: [2, 1, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+            2) i/p: 2110#(2), o/p: [1, 1, 0, 0, 0, 0, 0, 0, 0, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+
+
+
+2. Technical Interview 1 (1 hr)
+
+    - Intro
+    - Asked me about projects and problems that I have faced while developing.
+    - How did you solve this problems?
+    - Asked about which language would you prefer for coding? (I told cpp)
+
+    - Then he gave me 2 DSA questions (on paper):
+        1) array of intergers is given and you have to print in this format (key -> frequency).
+            - I gave hashmap solution and discussed about tc and sc.
+            - discussed about map vs unordered_map in cpp
+        2) K th largest element in the array
+            - I gave bruteforce solution of sorting using std sort method.
+            - Then he told me to write your own sort method, I wrote quick sort and discussed its tc in detail.
+            - Explain how quick sort worst case tc is o(n^2)?
+            - and at last I gave heap solution and told its tc.
+    
+    - OS:
+        1) process vs thread
+        2) what is multithreading?
+    - JS:
+        1) what is hoisting in js?
+        2) what is global execution context?
+        3) Why variables declared with let cannot be hoisted? what is temporal dead zone?
+    - DBMS:
+        1) ACID properties
+
+    - General discussion on frontend and backend. (What would you prefer frontend and backend? I told backend)
+    - Do you have any questions?
+        1) Asked about his role in the company and his work. (He was senior frontend developer, later I covered I would like to work on both frontend and backend).
+        2) Asked about hackathons that pubmatic conducts?
+
+
+
+3. Technical Interview 2 (1.5 hr)
+(This round was conducted virtually, as Interviewer was doing work from home)
+
+    - Intro
+    - Interviewer was very senior fullstack developer, He asked me to rate myself in js out of 10.
+
+    - JS(40-45 mins):
+        1) what is diff b/w let, const and var?
+        2) what is hoisting?
+        3) what is diff b/w function declaration vs function expression? and which one is hoisted?
+        4) Gave me js code and asked to predict output.
+        5) What is lexical scope chaining?
+        6) What is AST(Abstract Syntax tree)?
+        7) Js is compiled or interpreted? How js code is executed?
+        8) You know cpp and js which one is single threaded and which one is multithreaded and then discussed about call stack and event loop in js.
+        9) General discussion on js and es6.
+    
+    - OOP's:
+        1) Explain pillers of OOP's with real life example.
+        2) what is Late binding, vptr and vtable?
+
+    - OS:
+        1) deadlock vs livelock
+        2) How to avoid deadlock? (necessary conditions)
+    
+    - SQL:
+        1) Subquery based
+        2) write a query to find 4th largest salary of employee. (limit and offset)
+
+    - DSA:
+        1) Valid Parenthesis (asked to code and run)
+
+    - General discussion on tech stack and projects
+    - Do you have any questions?
+        1) I asked about his role in the company?
+        2) Asked about pubmatic and how ad works behind the scene? How it is diff from youtube ads?
+    
+- While filling out the form for PubMatic, you're asked to provide your language preferences (JavaScript, Java, or C). Your first preference is crucial, as it determines your interview panel. In my case, I chose JavaScript, so both of my interview rounds were conducted by senior frontend developers. Finally, the HR confirmed my preferences during the interview. So, be mindful when selecting your preference.
+
+- Prepare for the worst and hope for the best. :)
+- All the best !!
