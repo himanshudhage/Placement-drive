@@ -1,0 +1,31 @@
+Date: 23 Oct 2024  
+
+
+---------------------Dassault System Interview Experience---------------------
+
+CTC: 8 lpa (Intern+FTE)
+
+
+Aptitude Round: 
+There are some 1 mark and some 2-mark aptitude questions (MCQ). All questions are time based so solve in respective time only. (for each question time will be approx. 40 sec)
+After this Round they will shortlist students for different roles. 
+For our batch they are shortlisted 63 students from first round.
+
+Interview round: 
+This round is started with directly DSA questions. Questions are very easy they will check only logic behind it. They asked questions like find second maximum number in o(n), Check if a String is a subsequence of other. 
+Then we moved to my projects. The questions are like 
+1.Explain me project in short?
+2.How did you came up with this idea?
+3.Currently it is in use or not?
+4.How you can modify this solution?
+After that we moved to oops part and basics of data structures. They asked questions like
+1.Real time example of stack, queue?
+2.Implementation of overriding?
+3.Difference between overriding and overloading?
+4.Constructor chaining concept? And destructor related things.
+5.Real time use of method overloading and overriding?
+After that they asked two puzzles. 
+1.There are 25 horses among which you need to find out the fastest 3 horses
+2.one ant creates twin in every minute in a cube and after 30 minutes a cube will be full of ants then how many time will require to fill half cube?
+Then we jumped to hobbies and aim in life.
+
