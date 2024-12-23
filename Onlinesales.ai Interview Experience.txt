@@ -1,0 +1,27 @@
+Date: 18 Sept 2024
+---------------------Onlinesales.ai Campus Drive---------------------
+
+CTC: 14.4 lpa 
+
+The hiring process at Onlinsales.ai started with a coding round. We were given one problem on Google Docs, and we had to solve it in 1 hour and 15 minutes. After that, we had to share our code along with a video explaining how it worked. The task was to take logs from different microservices in JSON format and arrange them from the most recent to the least recent. Once the solutions were submitted, 27 of us were shortlisted for the next round, and I was one of them.
+
+Round 1: Code Evaluation and System Design
+
+I had my first technical interview, which lasted a bit over an hour. The interviewer started by asking me about the code I wrote in the coding round. I explained my approach, and we had a detailed discussion about it.
+Then we moved on to the projects I had mentioned in my resume. After that, the interviewer gave me a system design question. I had to design a contact list management application. I started by describing the class diagram and the key features. We talked about how to organize the database, how to search and sort contacts, and how to speed up the process of importing and exporting contacts. I suggested data structures that could make it faster and explained how they would help.
+The interview ended with some questions about improving my projects and about the company itself. A few days later, I found out that 13 candidates were shortlisted for the next round. I made it again.
+
+Round 2: Problem Solving and Prompt Engineering
+
+This round was tough—it lasted 1.5 hours. Before we started, the interviewer asked if I had talked to any friends who had gone through this round. I mentioned some questions I heard about prompt engineering and query optimization. Then we got into the first task: I had to find the exclusive elements from two arrays. We talked about the time and space complexity of my solution. I used sorting, so the interviewer asked me to explain quicksort and its time complexity.
+Next, the interviewer asked me to share my screen and search for something in my browser. Then he asked me how that search works internally. I started with string matching algorithms, but he wasn’t fully convinced. I then explained Trie, a data structure used for fast searching, and described how it works and how to implement it.
+After that, I got a system design question: How would I design the database for Facebook or Instagram? I gave him a relational schema, and we discussed SQL queries for managing user data. The interview ended with some questions I asked about the company.
+Only 3-4 people made it through this round,
+
+Round 3: Bar Raiser and Culture Fit
+
+This round was about an hour long. The interviewer started by asking me about the projects I had worked on. He asked for details and suggested alternative ways of doing things. We then moved on to another system design problem—this time, it was about creating a notification system that alerts users when stock prices increase or decrease by a certain percentage. I talked about how to design the database, make it efficient, and write SQL queries for this system.
+We also talked about Kubernetes auto-scaling, my goals, hobbies, and even how Onlinsales.ai is seen in my college. At the end, he gave me an assignment to work on using prompt engineering, 
+Round 4: The Final Decision
+I didn’t had fourth round, but some other candidates did. After 4-5 days, the results were announced, and I was selected.
+
