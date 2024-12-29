@@ -1,0 +1,49 @@
+Date: 11 Dec 2024
+
+------------------ CC Tech Campus Drive 2024 ------------------
+
+CTC: 6.2 lpa (Intern + FTE)
+
+
+There were a total of 4 rounds (2 aptitude and 2 interview rounds). Initially, they mentioned there would be 3 interview rounds (2 Technical and 1 HR), but due to time constraints, there was only 1 Technical round and 1 HR round.
+
+Round 1: Online Aptitude Round
+
+This was a reasoning-based round consisting of 30 questions in 60 minutes. The questions were based on logical reasoning and mathematics, including topics like angles, speed, probability, etc.
+
+Out of approximately 100 students, 23 were shortlisted for the next round.
+
+Round 2: Offline Aptitude Test (Pen-and-Paper Round)
+
+This round consisted of 4 questions that had to be solved on paper. I remember a few of the questions:
+1. Which is greater: √3 + √2 or √6? Prove this.
+2. Draw the graph of the equation y = x² + 2.
+3. For question 2, find the area under the curve from [-2, 2].
+4. I don’t remember the fourth question exactly.
+Round 3: Technical Interview
+
+This was a 20-minute round. The interviewer went through my resume and noticed I was studying DSA (Data Structures and Algorithms), so he asked a few related questions:
+
+1. What data structure would you use to show the relationship between employees?
+I said I would use a graph. He asked me why I chose a graph and how I would represent it in code. I explained that I would use an adjacency matrix or list. He then asked me to create an adjacency matrix, so I said I would use a 2D vector. As soon as I started writing vector<vector<int>, he stopped me and asked what the angular brackets (< >) were used for. I explained that they were used for generics, and we had a brief 2-3 minute discussion on generics.
+
+2. He also asked me a few questions on pointers, including the types of pointers.
+
+3. Since I mentioned AR/VR and 3D simulation in my resume, we also discussed those topics.
+
+At the end of the interview, he asked if I had any questions for him. I asked what my role would be if everything went well.
+
+End of Round 3.
+-------------
+
+Round 4: HR Interview
+
+This was a standard HR round. She asked me to tell her something about myself so she could get to know who "Saurav" is. She also asked what I do in my free time, my daily schedule, and about my family. She noticed I had solved LeetCode problems, so she asked how many questions I could solve in a day.
+
+The last two questions were:
+1. Why CCtech?
+2. What do you know about CCtech?
+End of Round 4.
+-----------------
+
+Verdict: Selected for the Member of Technical Staff role.
