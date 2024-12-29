@@ -1,0 +1,46 @@
+﻿Date: 2 Sept 2024  
+
+
+---------------------Oracle Financial Service System Interview Experience---------------------
+
+CTC: 9.7 lpa (FTE)
+
+
+The process began with an aptitude test that included 36 questions covering various topics:
+
+
+Topics Covered:
+Operating Systems
+Logical Aptitude Questions
+Comprehensions
+Java-related Questions
+
+One medium-level coding question
+This test assessed both technical and analytical skills. After the test, shortlisted candidates proceeded to the interview rounds.
+
+
+The first interview round was technical and focused on topics like Java, C++, operating systems, SQL, and problem-solving. Key questions included:
+
+Differences between Java and C++.
+Internal working of Java, including JVM and how Java code is compiled.
+OOP concepts in both Java and C++.
+Discussion about my projects:
+ML Project: Focused on the methodology.
+MERN Project: Focused on design and architecture.
+Basic questions about threads and processes (no questions from computer networks).
+SQL query to find duplicate rows with two columns, using two approaches.
+Problem-solving question on identifying a palindrome using two different approaches.
+This round lasted about 45 minutes.
+
+
+The second round started with my introduction and included a mix of technical and HR questions. Key highlights:
+Coding: Asked to choose and implement a sorting algorithm, then explain the code and library functions used.
+Questions about OOP concepts in Java and C++.
+Databases: Differences between SQL and NoSQL, and when MongoDB is better.
+Questions about AWS and my familiarity with it.
+Questions about LangChain, which I mentioned in my resume.
+Discussion about my projects, similar to the first round.
+
+
+HR questions like my future plans and why I wanted to join the company.
+This round also lasted about 45 minutes.
