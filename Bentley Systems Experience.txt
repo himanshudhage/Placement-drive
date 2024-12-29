@@ -1,0 +1,70 @@
+﻿Date: 25 Sept 2024  
+
+
+---------------------Bentley System Interview Experience---------------------
+
+CTC: 9 lpa (Intern+FTE)
+
+
+There were 5(2 coding + 2 Technical + 1 Managerial) rounds involved in the hiring process.
+
+First round was coding round it was around 1.5hrs. And it was held on campus. The platform was codility. There were 3 question(1 easy and 2 medium).
+1. First question - There is array of players and each position in the array denotes one direction(up,down,left,right).The player can move to index if it is empty(up and down are always empty as it was 1D array).Each player will take only 1 step. We had to return the final position of array.
+2. You are given an array A of N integers, representing the maximum heights of N skyscrapers to be built. Your task is to specify the actual heights of the skyscrapers, given that the height of the K-th skyscraper should be positive and not bigger than A[K].no two skyscrapers should be of the same height.
+the total sum of the skyscrapers' heights should be the maximum possible.
+3. In third question we had to design a game of Cards. The rules were given and we had to predict the winner based on rules. This was to be solved using OOPs concepts.
+Students who solved at least 2 questions were selected for the next round.
+
+
+The second round was also based on coding but we had to give test from their office in pune.The platform was same. And in this round there were 2 questions. Both were easy.
+Students who had solved 1 question and second partial got selected for the next round.
+1. In first question we were given the array of histograms ,width of each histogram was 1 we had to calculate the maximum area formed by square in this histograms.
+2. In second question we were given a vector with length and breadth of rectangle . And some rules were given if two rectangles follow the rules then they are similar. We had to return the maximum rectangles that are similar to each other.
+
+
+The third was interview round. There were around 13 panels to take interviews. This round was followed immediately after the second coding round.
+In this round the interviewer asked the questions based on CV. And the questions which we had solved in previous round such as how did you get intuition, explain your approach or how can you improve its efficiency.
+Then they asked questions on DBMS to write queries to create table and perform operations such insert, delete ..etc.Questions were asked on foreign keys and queries which included join and group by.
+What is git? Write the commands to push , commit to git. Difference between git and github.
+Have you used git in your projects? How do you resolve conflicts?
+Explain OOPs concepts using real life examples.
+Why did you choose this project idea? What were the problems you faced while making this project.
+
+
+This round was around 1 hr.
+
+
+The fourth round was again a technical round but it was more focused on OOPs, C++ and DBMS.
+Questions Asked in this round were-
+Write a class of Linked List. Implement reverse function in Linked list.
+What is virtual pointer c++? How it is implemented in C++.
+What is the diamond problem in c++? How can it be solved? Write a code to demonstrate the problem.
+What is normalization in DBMS? Why it is used? Have you used it any of your projects.
+Do you Know any system design concepts? Explain about singleton factory method. Why it is used. How you implement it in c++.
+Write a program to swap 2 numbers without using 3rd variable and +, - operators.
+Explain OOPs concept and write a code to show all the OOPs concept.
+Comparison between JAVA and C++.
+How space is allocated to instance of class in C++. (They were excepting the concepts such as greedy alignment and padding).
+The order in which you declare the variables in class in c++ affect your performance of code?
+Explain sorting algorithms.
+Which is the best sorting algorithm.
+
+
+This round was around 1 hr. And the interviewers were polite.
+
+
+The final round was managerial round. In this round also there were also some technical questions.And questions related to Geometry.
+What is equation of circle?
+What is equation of line?
+How can we find that a line intersects a circle or not.
+Write a code to find out wether a circle intersects line.
+What is use of destructor in c++.
+What is concept of virtual destructor in c++.
+Write class of circle and line and define all setter , getters and constructor and perform constructor overloading.
+How many members are there in your family?
+What is occupation of your father.
+Which sports do you like.
+In which Technologies you would like to work.
+
+
+So, this was my overall experience in hiring process. All the interviewers were supportive and gave enough time to solve problem also provided hints if we were stuck between. All the interviews were conducted in a single day.
